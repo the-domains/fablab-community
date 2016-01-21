@@ -2,6 +2,7 @@ name: FabLab Community
 favicon: null
 layout_spectrum: 0.47352076368406415
 typography_spectrum: 0.5702234937343746
+title: FabLab
 cta:
   domain: null
   bucket: null
