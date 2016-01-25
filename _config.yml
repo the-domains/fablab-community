@@ -1,6 +1,6 @@
 name: FabLab Community
 favicon: null
-layout_spectrum: 0.24804
+layout_spectrum: 0.72963
 typography_spectrum: 0.47246
 title: FabLab
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.9237294183112681
   saturation: 0.37687585270032287
-  rhythmicContrast: 0.6490774885751307
+  rhythmicContrast: 0.75
 purpose: []
