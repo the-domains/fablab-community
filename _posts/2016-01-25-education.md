@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T21:25:27.464Z'
-dateModified: '2016-01-25T21:25:17.879Z'
+datePublished: '2016-01-27T21:06:59.064Z'
+dateModified: '2016-01-27T21:06:56.636Z'
 title: Education
 author: []
+sourcePath: _posts/2016-01-25-education.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-25-education.md
-published: true
 url: education/index.html
 _type: Article
 
